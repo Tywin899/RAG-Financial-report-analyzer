@@ -58,6 +58,10 @@ uvicorn main:app --reload
 streamlit run streamlit_app.py  
 
 ---
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/63b8f99f-b626-4976-ae0f-4f4f6c19d10e" />
+<img width="1600" height="735" alt="image" src="https://github.com/user-attachments/assets/e3d3c6ab-a581-43ec-8577-2588bca5cb8a" />
+
+
 
 ## 📌 Note
 
