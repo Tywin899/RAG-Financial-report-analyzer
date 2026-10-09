@@ -120,3 +120,6 @@ watchdog==6.0.0
 xxhash==3.6.0
 yarl==1.22.0
 zstandard==0.25.0
+pytest>=9.0.0
+pytest-cov>=7.0.0
+pytest-asyncio>=1.4.0
