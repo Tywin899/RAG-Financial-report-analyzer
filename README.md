@@ -70,9 +70,14 @@ flowchart TD
 * **Embedding Model:** `sentence-transformers/all-MiniLM-L6-v2` (runs locally).
 
 ---
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/63b8f99f-b626-4976-ae0f-4f4f6c19d10e" />
+<img width="1600" height="735" alt="image" src="https://github.com/user-attachments/assets/e3d3c6ab-a581-43ec-8577-2588bca5cb8a" />
+
+
 
 ## 🏛️ System Architecture & Class Design
 
+<<<<<<< HEAD
 The application follows the **Single Responsibility Principle (SRP)** and **Dependency Inversion**, cleanly separating HTTP routing, domain validation, vector indexing, and generative AI execution.
 
 ```mermaid
@@ -407,3 +412,6 @@ Run the full automated test suite offline without consuming Groq credits or down
 * **API Key Protection:** The `.env` file containing the `GROQ_API_KEY` is explicitly ignored by Git (`.gitignore`) and is never committed.
 * **Input Sanitization:** Temp files are strictly isolated with randomized unique filenames and cleaned up immediately upon completion.
 * **License:** Educational project developed for academic evaluation. License status is currently undecided.
+=======
+This project was built as a learning exercise exploring Retrieval-Augmented Generation (RAG) systems.
+>>>>>>> origin/main
